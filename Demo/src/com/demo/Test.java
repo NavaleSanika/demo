@@ -17,7 +17,7 @@ public class Test {
 		System.out.println(a[0][0]);
 	
 	int[][] arr=new int[2][2];
-	arr[0][0]=105;
+	arr[0][0]=101;
 	arr[0][1]=102;
 	arr[1][0]=103;
 	arr[1][1]=104;
